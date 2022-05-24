@@ -1,0 +1,4 @@
+solution for: PC doesnt have SSH access to the server
+1. Try to connect normally
+2. Check the error message
+3. Google it
